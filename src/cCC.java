@@ -8,5 +8,8 @@
  * @author JFlores
  */
 public class cCC {
-    
+    public static void main(String[] args) {
+        System.out.println("CCC");
+    }
+ 
 }
