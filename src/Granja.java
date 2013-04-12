@@ -8,7 +8,8 @@
  * @author Gotcha
  */
 public class Granja {
+    static Pato patos[];
     public static void main(String[] args) {
-        System.out.println("NADA NADE PATITO");
+        System.out.println("NADE NADE PATITO");
     }
 }
