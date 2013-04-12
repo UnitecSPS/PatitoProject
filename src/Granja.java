@@ -10,6 +10,8 @@
 public class Granja {
     static Pato patos[];
     public static void main(String[] args) {
+        Estanco est = new Estanco();
         System.out.println("NADE NADE PATITO");
+        est.Vaciar();
     }
 }
